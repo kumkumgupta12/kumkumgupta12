@@ -5,7 +5,7 @@ Frontend Web Developer
 ----------------------
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [20ce01031@iitbbs.ac.in](mailto:20ce01031@iitbbs.ac.in)
+* ✉️  You can contact me at [Kumkum](mailto:20ce01031@iitbbs.ac.in)
 * 🧠  I'm learning Full stack web development
 * 🤝  I'm open to collaborating on Image processing related projects
 * ⚡  Enthusiastic learner at field of emerging technologies
