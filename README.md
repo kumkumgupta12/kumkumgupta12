@@ -21,13 +21,13 @@
 
 * ✉️  You can contact me at [Kumkum](mailto:03kumkumgupta@gmail.com)
 * 🧠  I'm learning in Data Field 
-* 🤝  I'm open to collaborating on Image processing related projects
+* 🤝  I'm open to collaborating on AI related Projects/Products
 * ⚡  Enthusiastic learner at field of emerging technologies
 * 
 ```yaml
 name: Kumkum Gupta
 located_in: Rajasthan
-current: Graduated '24
+current: Analyst-Data Science [chennai]
 education:
   [
     "Self-Taught Technical Developer ",
@@ -37,10 +37,9 @@ education:
 fields_of_interests:
   [
     "Machine Learning",
-    "Data Analysis"
     "Data Science",
     "Web Development",
-    "DevOps",
+    "Ingestion of Tech to World"
   ]
 technical_background:
   [
@@ -48,8 +47,8 @@ technical_background:
     "Intern - Structural Health Monitoring",
   ]
   
-currently_learning: ["To Data analysis to Data Science Roadmap "]
-2024 Goals: ["Create machine learning Projects and learn at least 3-5 new Technologies."]
+currently_learning: ["To Data analysis to Data Science to AI Researcher"]
+2025 Goals: ["Developing 2 Major AI Products and learn at least 3 new Technologies (GENAI, End To End lifecycle of AI product development)."]
 hobbies: ["Acting", "Reading", "Art", "Comedy"]
 ```
   
